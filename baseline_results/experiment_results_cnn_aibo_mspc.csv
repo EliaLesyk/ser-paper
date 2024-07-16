@@ -1,0 +1,2 @@
+Model,Dataset,Input,Test Loss,Accuracy,F1-score,Recall
+cnn,aibo,mspc,1.58825683951092,0.39157326535967313,0.38420010001541416,0.5509646535754402

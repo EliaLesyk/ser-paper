@@ -1,0 +1,2 @@
+Model,Dataset,Input,Test Loss,Accuracy,F1-score,Recall
+gru,aibo,mspc,1.5126313338284012,0.3744049180942385,0.3421639446380046,0.45521637036390344

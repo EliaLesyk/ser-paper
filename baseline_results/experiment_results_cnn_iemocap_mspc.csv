@@ -1,0 +1,2 @@
+Model,Dataset,Input,Test Loss,Accuracy,F1-score,Recall
+cnn,iemocap,mspc,1.461499850471462,0.3547369115996567,0.349819635903761,0.3646131482371469

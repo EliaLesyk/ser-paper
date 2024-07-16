@@ -1,0 +1,28 @@
+RESULTS
+
+Metrics
+
+['Test Set Accuracy =  0.100', 'Test Set F-score =  0.089', 'Test Set Precision =  0.222', 'Test Set Recall =  0.215']
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+         neu       0.72      0.03      0.06     10967
+         hap       0.07      0.63      0.13      1267
+         sad       0.08      0.04      0.05       889
+         fru       0.14      0.04      0.06      3601
+         ang       0.09      0.34      0.14      1492
+
+    accuracy                           0.10     18216
+   macro avg       0.22      0.22      0.09     18216
+weighted avg       0.48      0.10      0.07     18216
+
+
+Confusion Matrix
+
+[[ 359 6592  290  567 3159]
+ [  42  795   24   85  321]
+ [  51  599   33   90  116]
+ [  36 1902   32  127 1504]
+ [  10  910   15   46  511]]

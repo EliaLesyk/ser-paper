@@ -1,0 +1,2 @@
+Model,Dataset,Input,Test Loss,Accuracy,F1-score,Recall
+gru,iemocap,mspc,1.481868578932383,0.33202614379084966,0.3410162556437611,0.36422892858465794

@@ -1,0 +1,2 @@
+Model,Dataset,Input,Test Loss,Accuracy,F1-score,Recall
+gru,iemocap,mfcc,1.3854822306379826,0.4051169361167792,0.38530305716734514,0.41673219467360745
